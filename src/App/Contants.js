@@ -1,0 +1,8 @@
+export const SET_RANDOM_BOARD = 'SET_RANDOM_BOARD';
+export const ROLL_DICE = 'ROLL_DICE';
+export const OPEN_NEW_GAME = 'OPEN_NEW_GAME';
+export const SET_DIFFICULTY = 'SET_DIFFICULTY';
+export const PLACE_PLAYER = 'PLACE_PLAYER';
+export const MOVE_PLAYER = 'MOVE_PLAYER';
+export const CHANGE_TURN = 'CHANGE_TURN';
+export const UPDATE_PLAYER_STATUS = 'UPDATE_PLAYER_STATUS';
