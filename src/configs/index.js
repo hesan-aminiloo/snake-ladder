@@ -1,6 +1,6 @@
 export default {
   // [x, y] = X is the snakes and Y is ladders
-  easy: [7, 13],
-  normal: [15, 15],
-  hard: [35, 25]
+  easy: [9, 15],
+  normal: [17, 17],
+  hard: [45, 30]
 }
