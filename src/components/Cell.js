@@ -46,6 +46,10 @@ const Cell = ({ cell, moveThePlayer, playerTurn }) => {
         setTheSnake(null);
       }
     }
+    if (!parseInt(title) && (ladder || snake)){
+      setTheLadder(null);
+      setTheSnake(null);
+    }
   }, [])
 
   useEffect(() => {
